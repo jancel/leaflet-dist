@@ -1,7 +1,7 @@
 {
   "name": "leaflet",
   "version": "0.7.2",
-  "main": ["leaflet-src.js", "leaflet.css", "images/layers.png", "images/layers-2x.png"],
+  "main": ["leaflet-src.js", "leaflet.css", "images/layers.png", "images/layers-2x.png", "marker-icon-2x.png", "marker-icon.png", "marker-shadow.png"],
   "description": "Leaflet Bower package",
   "ignore": [
     ".DS_Store",
